@@ -1,0 +1,338 @@
+02/11/2019 08:49:49 APN Calculation started 
+02/11/2019 11:25:08 APN Calculation started 
+02/11/2019 11:25:09 Checking inbox for unread mail
+02/11/2019 11:25:12 APN calculation started
+02/11/2019 11:27:33 APN Calculation started 
+02/11/2019 11:27:34 Checking inbox for unread mail
+02/11/2019 11:27:36 APN calculation started
+02/11/2019 11:28:13 Checking inbox for unread mail
+02/11/2019 11:28:16 APN calculation started
+02/11/2019 11:29:00 Checking inbox for unread mail
+02/11/2019 11:29:03 APN calculation started
+02/11/2019 11:31:14 APN Calculation started 
+02/11/2019 11:31:16 Checking inbox for unread mail
+02/11/2019 11:31:20 APN calculation started
+02/11/2019 11:32:06 APN Calculation ended without errors. 
+02/11/2019 11:40:03 APN Calculation started 
+02/11/2019 11:40:05 Checking inbox for unread mail
+02/11/2019 11:40:09 APN calculation started
+02/11/2019 11:42:26 APN Calculation started 
+02/11/2019 11:42:28 Checking inbox for unread mail
+02/11/2019 11:43:20 APN Calculation started 
+02/11/2019 11:43:22 Checking inbox for unread mail
+02/11/2019 11:43:26 APN calculation started
+02/11/2019 11:44:11 APN Calculation ended without errors. 
+02/11/2019 11:48:56 APN Calculation started 
+02/11/2019 11:48:58 Checking inbox for unread mail
+02/11/2019 11:49:02 APN calculation started
+02/11/2019 11:49:35 APN Calculation ended without errors. 
+02/11/2019 11:50:29 APN Calculation started 
+02/11/2019 11:50:30 Checking inbox for unread mail
+02/11/2019 11:51:28 APN Calculation started 
+02/11/2019 11:51:28 Checking inbox for unread mail
+02/11/2019 11:51:31 APN calculation started
+02/11/2019 11:52:08 APN Calculation ended without errors. 
+02/11/2019 11:57:50 APN Calculation started 
+02/11/2019 11:57:51 Checking inbox for unread mail
+02/11/2019 11:57:54 APN calculation started
+02/11/2019 11:58:24 APN Calculation ended without errors. 
+02/11/2019 12:05:13 APN Calculation started 
+02/11/2019 12:05:13 Checking inbox for unread mail
+02/11/2019 12:09:50 APN Calculation started 
+02/11/2019 12:09:50 Checking inbox for unread mail
+02/11/2019 12:09:50 No unread emails in the specified folder 
+02/11/2019 12:10:39 APN Calculation started 
+02/11/2019 12:10:39 Checking inbox for unread mail
+02/11/2019 12:10:39 No unread emails in the specified folder. Closing bot. 
+02/11/2019 12:13:53 APN Calculation started 
+02/11/2019 12:13:53 Checking inbox for unread mail
+02/11/2019 12:13:53 No unread emails in the specified folder. Closing bot. 
+02/11/2019 12:14:06 APN Calculation started 
+02/11/2019 12:14:06 Checking inbox for unread mail
+02/11/2019 12:14:07 APN calculation started
+02/11/2019 12:14:29 APN Calculation ended without errors. 
+02/11/2019 13:39:13 APN Calculation started 
+02/11/2019 13:39:13 Checking inbox for unread mail
+02/11/2019 13:39:13 No unread emails in the specified folder. Closing bot. 
+02/11/2019 14:14:34 APN Calculation started 
+02/11/2019 14:14:34 Checking inbox for unread mail
+02/11/2019 14:14:35 No unread emails in the specified folder. Closing bot. 
+02/11/2019 14:16:28 APN Calculation started 
+02/11/2019 14:16:29 Checking inbox for unread mail
+02/11/2019 14:16:29 No unread emails in the specified folder. Closing bot. 
+02/11/2019 14:16:49 APN Calculation started 
+02/11/2019 14:16:49 Checking inbox for unread mail
+02/11/2019 14:16:50 No unread emails in the specified folder. Closing bot. 
+02/11/2019 14:20:15 APN Calculation started 
+02/11/2019 14:20:15 Checking inbox for unread mail
+02/11/2019 14:20:16 No unread emails in the specified folder. Closing bot. 
+02/11/2019 14:40:31 APN Calculation started 
+02/11/2019 14:40:32 Checking inbox for unread mail
+02/11/2019 14:40:33 Error has occured. Error = Kindly attach only 1 Excel sheet per email. 
+02/12/2019 10:24:36 APN Calculation started 
+02/12/2019 10:24:38 Checking inbox for unread mail
+02/12/2019 10:37:39 APN Calculation started 
+02/12/2019 10:37:40 Checking inbox for unread mail
+02/12/2019 10:37:42 No unread emails in the specified folder. Closing bot. 
+02/12/2019 10:38:42 APN Calculation started 
+02/12/2019 10:38:43 Checking inbox for unread mail
+02/12/2019 10:38:46 Error has occured. Error = Kindly attach only 1 Excel sheet per email. 
+02/12/2019 10:46:09 APN Calculation started 
+02/12/2019 10:46:11 Checking inbox for unread mail
+02/12/2019 10:48:12 APN Calculation started 
+02/12/2019 10:48:13 Checking inbox for unread mail
+02/12/2019 10:48:15 No unread emails in the specified folder. Closing bot. 
+02/12/2019 10:48:45 APN Calculation started 
+02/12/2019 10:48:47 Checking inbox for unread mail
+02/12/2019 10:48:52 APN calculation started
+02/12/2019 10:50:57 APN Calculation started 
+02/12/2019 10:51:00 Checking inbox for unread mail
+02/12/2019 10:51:04 APN calculation started
+02/12/2019 10:51:07 Error has occured. Error = No records in attachment
+02/12/2019 10:52:35 APN Calculation started 
+02/12/2019 10:52:37 Checking inbox for unread mail
+02/12/2019 10:52:43 APN calculation started
+02/12/2019 10:52:45 Error has occured. Error = No records in attachment
+02/15/2019 07:09:27 APN Calculation started 
+02/15/2019 07:09:29 Checking inbox for unread mail
+02/15/2019 07:09:32 APN calculation started
+02/15/2019 07:11:22 APN Calculation started 
+02/15/2019 07:12:01 APN Calculation started 
+02/15/2019 07:12:03 Checking inbox for unread mail
+02/15/2019 07:12:08 APN calculation started
+02/15/2019 09:25:12 APN Calculation started 
+02/15/2019 09:25:14 Checking inbox for unread mail
+02/15/2019 09:25:19 APN calculation started
+02/15/2019 09:26:05 Error occurred. Error = UiPath.Core.ElementOperationException: Cannot select item. It was not found among existing items.
+TIP: Some combo-boxes delay load items until its dropdown is expanded. Try to simulate a click on control prior to selecting an item. ---> System.Runtime.InteropServices.COMException: Cannot select item. It was not found among existing items.
+TIP: Some combo-boxes delay load items until its dropdown is expanded. Try to simulate a click on control prior to selecting an item.
+   at UiPath.UiNodeClass.Set(String bstrAttr, Object vValue)
+   at UiPath.Core.UiElement.Set(String attribute, Object value)
+   --- End of inner exception stack trace ---
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+02/15/2019 09:26:51 Error occurred. Error = System.ArgumentException: the value for argument 'Column Name' is not set or is invalid.
+   at UiPath.DataTableUtilities.DatatableExtensions.GetColumnIndex(DataTable dt, Object argumentValue, Boolean throwIfNotFound)
+   at UiPath.DataTableUtilities.DatatableExtensions.GetColumnIndex(DataTable dt, InArgument arg, ActivityContext context, Boolean throwIfNotFound)
+   at UiPath.Core.Activities.FilterDataTable.<>c__DisplayClass26_0.<FilterRows>b__1(FilterOperationArgument f)
+   at System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at UiPath.Core.Activities.FilterDataTable.FilterRows(DataTable dataTable, ActivityContext context)
+   at UiPath.Core.Activities.FilterDataTable.Execute(CodeActivityContext context)
+   at System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+02/15/2019 10:43:06 APN Calculation started 
+02/15/2019 10:43:07 Checking inbox for unread mail
+02/15/2019 10:43:08 No unread emails in the specified folder. Closing bot. 
+02/15/2019 10:44:09 APN Calculation started 
+02/15/2019 10:44:10 Checking inbox for unread mail
+02/15/2019 10:44:24 APN calculation started
+02/15/2019 10:48:13 APN Calculation started 
+02/15/2019 10:48:15 Checking inbox for unread mail
+02/15/2019 10:48:25 APN calculation started
+02/15/2019 10:49:06 Error occurred while opening InfoWeb. Error = UiPath.Core.ElementOperationException: Cannot select item. It was not found among existing items.
+TIP: Some combo-boxes delay load items until its dropdown is expanded. Try to simulate a click on control prior to selecting an item. ---> System.Runtime.InteropServices.COMException: Cannot select item. It was not found among existing items.
+TIP: Some combo-boxes delay load items until its dropdown is expanded. Try to simulate a click on control prior to selecting an item.
+   at UiPath.UiNodeClass.Set(String bstrAttr, Object vValue)
+   at UiPath.Core.UiElement.Set(String attribute, Object value)
+   --- End of inner exception stack trace ---
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+02/15/2019 10:49:46 Error occurred while opening InfoWeb. Error = UiPath.Core.ElementOperationException: Cannot select item. It was not found among existing items.
+TIP: Some combo-boxes delay load items until its dropdown is expanded. Try to simulate a click on control prior to selecting an item. ---> System.Runtime.InteropServices.COMException: Cannot select item. It was not found among existing items.
+TIP: Some combo-boxes delay load items until its dropdown is expanded. Try to simulate a click on control prior to selecting an item.
+   at UiPath.UiNodeClass.Set(String bstrAttr, Object vValue)
+   at UiPath.Core.UiElement.Set(String attribute, Object value)
+   --- End of inner exception stack trace ---
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+02/15/2019 10:51:09 APN Calculation started 
+02/15/2019 10:51:12 Checking inbox for unread mail
+02/15/2019 10:51:22 APN calculation started
+02/15/2019 10:52:03 Error occurred while opening InfoWeb. Error = UiPath.Core.ElementOperationException: Cannot select item. It was not found among existing items.
+TIP: Some combo-boxes delay load items until its dropdown is expanded. Try to simulate a click on control prior to selecting an item. ---> System.Runtime.InteropServices.COMException: Cannot select item. It was not found among existing items.
+TIP: Some combo-boxes delay load items until its dropdown is expanded. Try to simulate a click on control prior to selecting an item.
+   at UiPath.UiNodeClass.Set(String bstrAttr, Object vValue)
+   at UiPath.Core.UiElement.Set(String attribute, Object value)
+   --- End of inner exception stack trace ---
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+02/15/2019 11:00:52 APN Calculation started 
+02/15/2019 11:00:52 Checking inbox for unread mail
+02/15/2019 11:01:21 APN calculation started
+02/15/2019 11:03:54 APN Calculation started 
+02/15/2019 11:03:54 Checking inbox for unread mail
+02/15/2019 11:04:12 APN calculation started
+02/15/2019 11:06:02 Error occurred while opening InfoWeb. Error = UiPath.Core.ElementOperationException: Cannot select item. It was not found among existing items.
+TIP: Some combo-boxes delay load items until its dropdown is expanded. Try to simulate a click on control prior to selecting an item. ---> System.Runtime.InteropServices.COMException: Cannot select item. It was not found among existing items.
+TIP: Some combo-boxes delay load items until its dropdown is expanded. Try to simulate a click on control prior to selecting an item.
+   at UiPath.UiNodeClass.Set(String bstrAttr, Object vValue)
+   at UiPath.Core.UiElement.Set(String attribute, Object value)
+   --- End of inner exception stack trace ---
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+02/15/2019 11:11:08 APN Calculation started 
+02/15/2019 11:11:09 Checking inbox for unread mail
+02/15/2019 11:11:15 APN calculation started
+02/15/2019 11:11:53 Error occurred while opening InfoWeb. Error = UiPath.Core.ElementOperationException: Cannot select item. It was not found among existing items.
+TIP: Some combo-boxes delay load items until its dropdown is expanded. Try to simulate a click on control prior to selecting an item. ---> System.Runtime.InteropServices.COMException: Cannot select item. It was not found among existing items.
+TIP: Some combo-boxes delay load items until its dropdown is expanded. Try to simulate a click on control prior to selecting an item.
+   at UiPath.UiNodeClass.Set(String bstrAttr, Object vValue)
+   at UiPath.Core.UiElement.Set(String attribute, Object value)
+   --- End of inner exception stack trace ---
+   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)
+   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+02/15/2019 11:11:56 Error has occured. Error = Invalid value in Excel sheet in row 4
+02/15/2019 12:37:57 APN Calculation started 
+02/15/2019 12:37:58 Checking inbox for unread mail
+02/15/2019 12:40:11 APN Calculation started 
+02/15/2019 12:40:11 Checking inbox for unread mail
+02/15/2019 12:40:13 Error has occured. Error = Kindly attach only 1 Excel sheet per email. 
+02/15/2019 12:41:24 APN Calculation started 
+02/15/2019 12:41:25 Checking inbox for unread mail
+02/15/2019 12:44:53 APN Calculation started 
+02/15/2019 12:44:54 Checking inbox for unread mail
+02/15/2019 12:48:36 APN Calculation started 
+02/15/2019 12:48:37 Checking inbox for unread mail
+02/15/2019 12:50:25 APN Calculation started 
+02/15/2019 12:51:08 APN Calculation started 
+02/15/2019 12:51:09 Checking inbox for unread mail
+02/15/2019 12:54:04 APN Calculation started 
+02/15/2019 12:54:05 Checking inbox for unread mail
+02/15/2019 12:54:06 No unread emails in the specified folder. Closing bot. 
+02/15/2019 12:54:26 APN Calculation started 
+02/15/2019 12:54:27 Checking inbox for unread mail
+02/15/2019 12:55:58 APN Calculation started 
+02/15/2019 12:56:24 APN Calculation started 
+02/15/2019 12:56:24 Checking inbox for unread mail
+02/15/2019 13:00:39 APN Calculation started 
+02/15/2019 13:00:39 Checking inbox for unread mail
+02/15/2019 13:01:49 APN Calculation started 
+02/15/2019 13:01:50 Checking inbox for unread mail
+02/15/2019 13:03:06 APN Calculation started 
+02/15/2019 13:03:07 Checking inbox for unread mail
+02/15/2019 13:04:34 Error has occured. Error = Ensure that the Month is in column C, and Year is in column D
+02/15/2019 13:10:07 APN Calculation started 
+02/15/2019 13:10:07 Checking inbox for unread mail
+02/15/2019 13:10:30 Excel verification completed
+02/15/2019 13:13:50 APN Calculation started 
+02/15/2019 13:13:51 Checking inbox for unread mail
+02/15/2019 13:13:52 No unread emails in the specified folder. Closing bot. 
+02/15/2019 13:14:20 APN Calculation started 
+02/15/2019 13:14:21 Checking inbox for unread mail
+02/15/2019 13:14:32 Excel verification completed
+02/15/2019 13:14:36 APN calculation started
+02/15/2019 13:15:11 APN Calculation ended without errors. 
+02/15/2019 13:24:47 APN Calculation started 
+02/15/2019 13:24:47 Checking inbox for unread mail
+02/15/2019 13:24:56 Excel verification completed
+02/15/2019 13:25:14 APN calculation started
+02/15/2019 13:27:57 APN Calculation started 
+02/15/2019 13:27:57 Checking inbox for unread mail
+02/15/2019 13:28:04 Excel verification completed
+02/15/2019 13:28:09 APN calculation started
+02/15/2019 13:29:13 APN Calculation ended without errors. 
+02/15/2019 13:33:31 APN Calculation started 
+02/15/2019 13:33:31 Checking inbox for unread mail
+02/15/2019 13:33:37 Excel verification completed
+02/15/2019 13:33:41 APN calculation started
+02/15/2019 13:34:16 Checking inbox for unread mail
+02/15/2019 13:34:16 No unread emails in the specified folder. Closing bot. 
+02/15/2019 13:53:09 APN Calculation started 
+02/15/2019 13:53:10 Checking inbox for unread mail
+02/15/2019 13:53:17 Excel verification completed
+02/15/2019 13:53:21 APN calculation started
+02/15/2019 13:54:08 APN Calculation ended without errors. 3 accounts calculated. 
+02/18/2019 06:44:13 APN Calculation started 
+02/18/2019 06:44:13 Checking inbox for unread mail
+02/18/2019 06:44:17 Excel verification completed
+02/18/2019 06:44:19 APN calculation started
+02/18/2019 06:44:49 Checking inbox for unread mail
+02/18/2019 06:44:50 No unread emails in the specified folder. Closing bot. 
+02/18/2019 09:32:38 APN Calculation started 
+02/18/2019 09:32:39 Checking inbox for unread mail
+02/18/2019 09:33:28 Excel verification completed
+02/18/2019 09:33:51 APN calculation started
+02/18/2019 09:41:23 APN Calculation ended without errors. 3 accounts calculated. 
+02/18/2019 09:43:00 APN Calculation started 
+02/18/2019 09:43:04 Checking inbox for unread mail
+02/18/2019 09:43:27 No unread emails in the specified folder. Closing bot. 
+02/18/2019 09:48:03 APN Calculation started 
+02/18/2019 09:48:09 Checking inbox for unread mail
+02/18/2019 09:49:09 Error verifying Excel sheet. Error = System.ArgumentException: The sheet does not exist.
+   at UiPath.Excel.WorkbookApplication.SetSheet(String sheetName, Boolean createNew)
+   at UiPath.Excel.Activities.ExcelInteropActivity`1.BeginExecute(AsyncCodeActivityContext context, AsyncCallback callback, Object state)
+   at System.Activities.AsyncCodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+02/18/2019 09:50:07 Error has occured. Error = Ensure that the Month is in cell C, and Year is in cell D
+02/18/2019 09:55:59 APN Calculation started 
+02/18/2019 09:56:04 Checking inbox for unread mail
+02/18/2019 09:56:24 Error verifying Excel sheet. Error = System.ArgumentException: The sheet does not exist.
+   at UiPath.Excel.WorkbookApplication.SetSheet(String sheetName, Boolean createNew)
+   at UiPath.Excel.Activities.ExcelInteropActivity`1.BeginExecute(AsyncCodeActivityContext context, AsyncCallback callback, Object state)
+   at System.Activities.AsyncCodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+02/18/2019 09:56:26 Error has occured. Error = Ensure that the Month is in cell C, and Year is in cell D
+02/18/2019 10:01:24 APN Calculation started 
+02/18/2019 10:01:29 Checking inbox for unread mail
+02/18/2019 10:01:41 Error verifying Excel sheet. Error = System.ArgumentException: The sheet does not exist.
+   at UiPath.Excel.WorkbookApplication.SetSheet(String sheetName, Boolean createNew)
+   at UiPath.Excel.Activities.ExcelInteropActivity`1.BeginExecute(AsyncCodeActivityContext context, AsyncCallback callback, Object state)
+   at System.Activities.AsyncCodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+02/18/2019 10:01:42 Error has occured. Error = Ensure that the Billing Account number is in column A, Month is in column C, and Year is in column D. The sheet name should be 'Accounts'
+02/18/2019 10:09:20 APN Calculation started 
+02/18/2019 10:09:34 Checking inbox for unread mail
+02/18/2019 10:11:29 Error has occured. Error = Ensure that the Billing Account number is in column A, Month is in column C, and Year is in column D. The sheet name should be 'Accounts'
+02/18/2019 10:14:08 APN Calculation started 
+02/18/2019 10:14:10 Checking inbox for unread mail
+02/18/2019 10:14:19 Error has occured. Error = Ensure that the Billing Account number is in column A, Month is in column C, and Year is in column D. The sheet name should be 'Accounts'
+02/19/2019 10:36:07 APN Calculation started 
+02/19/2019 10:36:08 Checking inbox for unread mail
+02/19/2019 10:36:12 Excel verification completed
+02/19/2019 10:36:14 APN calculation started
+02/19/2019 10:36:48 Checking inbox for unread mail
+02/19/2019 10:36:49 No unread emails in the specified folder. Closing bot. 
+02/19/2019 10:40:44 APN Calculation started 
+02/19/2019 10:40:46 Checking inbox for unread mail
+02/19/2019 10:40:50 Excel verification completed
+02/19/2019 10:40:52 APN calculation started
+02/19/2019 10:41:42 APN Calculation ended without errors. 3 accounts calculated. 
+02/19/2019 10:44:39 APN Calculation started 
+02/19/2019 10:44:41 Checking inbox for unread mail
+02/19/2019 10:44:42 No unread emails in the specified folder. Closing bot. 
+02/19/2019 10:45:09 APN Calculation started 
+02/19/2019 10:45:11 Checking inbox for unread mail
+02/19/2019 10:45:17 Excel verification completed
+02/19/2019 10:45:20 APN calculation started
+02/19/2019 10:45:54 Checking inbox for unread mail
+02/19/2019 10:45:55 No unread emails in the specified folder. Closing bot. 
+02/19/2019 10:49:29 APN Calculation started 
+02/19/2019 10:49:32 Checking inbox for unread mail
+02/19/2019 10:49:38 Excel verification completed
+02/19/2019 10:49:41 APN calculation started
+02/19/2019 10:50:22 APN Calculation ended without errors. 3 accounts calculated. 
+02/19/2019 10:51:04 APN Calculation started 
+02/19/2019 10:51:07 Checking inbox for unread mail
+02/19/2019 10:51:09 No unread emails in the specified folder. Closing bot. 
+02/19/2019 10:52:14 APN Calculation started 
+02/19/2019 10:52:16 Checking inbox for unread mail
+02/19/2019 10:52:23 Excel verification completed
+02/19/2019 10:52:25 APN calculation started
+02/19/2019 10:53:14 APN Calculation ended without errors. 3 accounts calculated. 
+02/19/2019 11:10:46 APN Calculation started 
+02/19/2019 11:10:48 Checking inbox for unread mail
+02/19/2019 11:10:54 Excel verification completed
+02/19/2019 11:10:56 APN calculation started
+02/19/2019 11:11:30 APN Calculation ended without errors. 3 accounts calculated. 
